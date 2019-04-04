@@ -123,5 +123,5 @@
     ]
   },
   "disableCocoaScriptPreprocessor": false,
-  "appcast": "https://raw.githubusercontent.com//master/.appcast.xml"
+  "appcast": "https://raw.githubusercontent.com/KikeSz/Method-Sketch-Plugin/master/.appcast.xml"
 }
