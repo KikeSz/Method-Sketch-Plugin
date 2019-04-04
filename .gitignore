@@ -11,3 +11,12 @@ npm-debug.log
 
 # WebStorm
 .idea
+
+## excluir
+package-lock.json
+package.json
+
+## carpetas
+src
+assets
+
