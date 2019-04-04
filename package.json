@@ -2,7 +2,7 @@
   "name": "method",
   "description": "",
   "repository": "https://github.com/KikeSz/Method-Sketch-Plugin",
-  "version": "1.2.5-0",
+  "version": "1.2.5",
   "engines": {
     "sketch": ">=49.0"
   },
