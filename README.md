@@ -1,5 +1,5 @@
 <a href="https://www.kikesainz.com/method/" style="display:inline-block" >
-  <img style="display:inline-block" src="https://raw.githubusercontent.com/KikeSz/Method/master/Recurses/Gifs/CheckButton.png">
+  <img style="display:inline-block" src="https://raw.githubusercontent.com/KikeSz/Method-Sketch-Plugin/master/Recurses/Gifs/CheckButton.png">
 </a>
 <br>
 
@@ -17,7 +17,7 @@ For some years now, I've been using a work methodology based on 8px. The goal is
 That's why I've created this plugin to make it easier to apply working methodologies with respect to multiple 6, 8, 10...etc.
 
 
-<img src="https://raw.githubusercontent.com/KikeSz/Method/master/Recurses/Gifs/SpacesSizes.png" width="100%">
+<img src="https://raw.githubusercontent.com/KikeSz/Method-Sketch-Plugin/master/Recurses/Gifs/SpacesSizes.png" width="100%">
 <br>
 
 
@@ -32,7 +32,7 @@ Okay, so you've probably even read all this stuff about 8 spacing but... what, s
 I am an advocate of working with multiples of 8 but, if someone has another preference, you will be able to change it, The value will remain saved until you decide to change it.
 
 
-<img src="https://raw.githubusercontent.com/KikeSz/Method/master/Recurses/Gifs/settings.gif" width="100%">
+<img src="https://raw.githubusercontent.com/KikeSz/Method-Sketch-Plugin/master/Recurses/Gifs/settings.gif" width="100%">
 <br>
 
 ### Round 🧮
@@ -43,7 +43,7 @@ Goodbye, calculator! Ctrl+8 and the object will be shaped to 8 in height and wid
 ctrl 8
 ```
 
-<img src="https://raw.githubusercontent.com/KikeSz/Method/master/Recurses/Gifs/round.gif" width="100%">
+<img src="https://raw.githubusercontent.com/KikeSz/Method-Sketch-Plugin/master/Recurses/Gifs/round.gif" width="100%">
 <br>
 
 ### Resize 📐
@@ -54,7 +54,7 @@ ctrl 8
 ctrl cmd ↑ , ctrl cmd ↓ , ctrl cmd → , ctrl cmd ←
 ```
 
-<img src="https://raw.githubusercontent.com/KikeSz/Method/master/Recurses/Gifs/resize.gif" width="100%">
+<img src="https://raw.githubusercontent.com/KikeSz/Method-Sketch-Plugin/master/Recurses/Gifs/resize.gif" width="100%">
 <br>
 
 ### Move 📏
@@ -65,14 +65,14 @@ Move from 8 to 8, so damn easy! Sometimes moving our layers around the canvas is
 shift ctrl ↑ , shift ctrl ↓ , shift ctrl → , shift ctrl ←
 ```
 
-<img src="https://raw.githubusercontent.com/KikeSz/Method/master/Recurses/Gifs/move.gif" width="100%">
+<img src="https://raw.githubusercontent.com/KikeSz/Method-Sketch-Plugin/master/Recurses/Gifs/move.gif" width="100%">
 <br>
 
 ### Future
 
 It is always a work in progress but, with some or other technical difficulty (I'm not an emoji programmer, you know) the idea is that this methodology flows softly with smart-guides. If someone wants to try it on GitHub, the source code is completely free and modifiable
 
-<img src="https://raw.githubusercontent.com/KikeSz/Method/master/Recurses/Gifs/smart-guides.gif" width="100%">
+<img src="https://raw.githubusercontent.com/KikeSz/Method-Sketch-Plugin/master/Recurses/Gifs/smart-guides.gif" width="100%">
 <br>
 
 
@@ -98,7 +98,7 @@ _Requires Sketch 49+_
 ---
 
 <a href="https://www.kikesainz.com/method/" style="display:inline-block" >
-  <img style="display:inline-block" src="https://raw.githubusercontent.com/KikeSz/Method/master/Recurses/Gifs/CheckButton.png">
+  <img style="display:inline-block" src="https://raw.githubusercontent.com/KikeSz/Method-Sketch-Plugin/master/Recurses/Gifs/CheckButton.png">
 </a>
 <br>
 
