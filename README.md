@@ -85,6 +85,8 @@ Finally you can find the open source in the folder "resources". If you are a dev
 ## Gratitude
 * [Donatte a coffe](https://www.paypal.me/methodsketchplugin) ☕️
 * Share this proyect 📢
+* [WebSite](https://www.kikesainz.com/method/)
+* [Article in Medium](https://medium.com/@sainzkike/controlling-spacing-in-design-systems-multiple-spacing-9bf1afec87f)
 * If you can think of any new functionality, tell me! 🤪
 
 ## Installation
