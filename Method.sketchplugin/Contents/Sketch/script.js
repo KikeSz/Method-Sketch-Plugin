@@ -120,7 +120,7 @@ var selectedCount = selectedLayers.length;
 var Rectangle = sketch.Rectangle;
 var Settings = sketch.Settings;
 var UI = sketch.UI;
-var pxSeleccion = Settings.settingForKey('miMultiploPreferido');
+var pxSeleccion = parseInt(Settings.settingForKey('miMultiploPreferido'));
 /* ************************************************************** */
 
 function settings(context) {
@@ -129,9 +129,9 @@ function settings(context) {
   if (theme === 'dark') {} else {}
 
   UI.getInputFromUser("Select the value of which all actions will be multiple", {
-    initialValue: Settings.settingForKey('miMultiploPreferido') || 8,
+    initialValue: Settings.settingForKey('miMultiploPreferido') || '8',
     type: UI.INPUT_TYPE.selection,
-    possibleValues: [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+    possibleValues: ['2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16']
   }, function (err, value) {
     if (err) {
       return;
