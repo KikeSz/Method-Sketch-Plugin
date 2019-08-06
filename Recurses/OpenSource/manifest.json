@@ -1,11 +1,11 @@
 { "name" : "Method",
   "description": "Tool to apply your methodology systems",
-  "version": "0.1.0",
+  "version": "1.3.0",
   "icon": "Method.png",
   "author": "Kike Sainz",
   "authorEmail" : "sainzkike@gmail.com",
   "identifier":"com.kikesainz.sketch-method",
-  "homepage": "https://github.com/KikeSz/Method",
+  "homepage": "https://github.com/KikeSz/Method-Sketch-Plugin",
   "compatibleVersion": 3,
   "bundleVersion": 1,
   "commands" : [

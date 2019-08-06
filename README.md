@@ -83,8 +83,10 @@ In the download folder you can find an example of an x8 layout, it has things to
 Finally you can find the open source in the folder "resources". If you are a developer and you want the challenge contact me for anything.
 
 ## Gratitude
-* [Donatte a coffe](https://www.paypal.me/methodsketchplugin) ☕️
 * Share this proyect 📢
+* [WebSite](https://www.kikesainz.com/method/)
+* [Article in Medium](https://medium.com/@sainzkike/controlling-spacing-in-design-systems-multiple-spacing-9bf1afec87f)
+* [Donatte a coffe](https://www.paypal.me/methodsketchplugin) ☕️
 * If you can think of any new functionality, tell me! 🤪
 
 ## Installation
